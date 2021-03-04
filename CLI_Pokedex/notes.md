@@ -1,6 +1,7 @@
 NOTES
-it add .
+git add .
 git commit -m 'message here'
+then git push to actually send it to the repository
 
 REMOVE THE fancy text from url's and such. open-uri doesn't like it and will throw out an error.
 
