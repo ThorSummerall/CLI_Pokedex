@@ -1,4 +1,5 @@
-git add .
+NOTES
+it add .
 git commit -m 'message here'
 
 REMOVE THE fancy text from url's and such. open-uri doesn't like it and will throw out an error.
