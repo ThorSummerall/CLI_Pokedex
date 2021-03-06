@@ -2,4 +2,5 @@
 
 require_relative "../lib/environment"
 
-CLIPokedex::Scraper.new.get_page
+CLIPokedex::Scraper.new.get_pokemon_links
+CLIPokedex::Scraper.new.get_pokemon_name(wiki_link)
